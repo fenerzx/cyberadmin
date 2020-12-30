@@ -1,1 +1,1 @@
-worker: node cyberadmin.js
+worker: node bot.js
